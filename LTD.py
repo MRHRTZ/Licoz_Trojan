@@ -120,7 +120,8 @@ def usage():
   \x1b[1;37;43mNote : Cara Cek IP gunakan perintah ping "url"\033[0m
   \x1b[1;37;43mContoh : ping www.target.co.il\033[0m
 
-  \033[1;33m>>Cara Penggunaan : python3 LTD.py "-s" "-i" "-t"<<\033[0m			
+  \033[1;33m>>Cara Penggunaan : python3 LTD.py "-i" "-p" "-t"<<\033[0m
+  \033[1;33m>>Contoh 	      : python3 LTD.py -i 192.168.173.1 -p 80 -t 100<<\033[0m
 						''')
 	sys.exit()
 
