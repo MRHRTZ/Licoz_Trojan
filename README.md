@@ -9,7 +9,7 @@
 - python3 LTD.py
 
 # Cara Penggunaan
-- python3 LTD.py "-s" "-i" "-t"
+- python3 LTD.py "-i" "-p" "-t"
 
 # Contact
 - Whatsapp : 085559038021
