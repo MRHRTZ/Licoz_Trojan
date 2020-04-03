@@ -6,10 +6,10 @@
 - pkg install git
 - git clone https://github.com/MRHZx/Licoz_Trojan.git
 - cd Licoz_Trojan
-- python3 LTD.py
+- python LTD.py
 
 # Cara Penggunaan
-- python3 LTD.py "-i" "-p" "-t"
+- python LTD.py "-i" "-p" "-t"
 
 # Contact
 - Whatsapp : 085559038021
