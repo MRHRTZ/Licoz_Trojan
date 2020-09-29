@@ -4,7 +4,7 @@
 - pkg update && pkg upgrade -y
 - pkg install python
 - pkg install git
-- git clone https://github.com/MRHZx/Licoz_Trojan.git
+- git clone https://github.com/MRHRTZ/Licoz_Trojan.git
 - cd Licoz_Trojan
 - python LTD.py
 
